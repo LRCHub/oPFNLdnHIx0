@@ -1,0 +1,64 @@
+# Tokyo Incidents – 新しい文明開化 (Bon Voyageより)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.77] Knock me out now
+[00:04.28] The ground I'm on is failing
+[00:07.95] One more hit and I go down
+[00:22.10] All I ever see is pretty flower power
+[00:25.40] But you know I'm really starving for the other side
+[00:28.02] All I ever hear is chatter flatter hour
+[00:30.80] But you know I'm really hoping for a better line
+[00:33.58] All I ever breathe is kind of broken down
+[00:36.51] But you know I really want to find a little time
+[00:38.97] All I ever taste I want to spit it out
+[00:41.57] And you know I'm really dying for a little light
+[00:44.39] Sometimes it feels the more you want and want it
+[00:47.32] You get caught and forget it's never real
+[00:49.92] Sometimes I find I think I'm losing my mind
+[00:52.67] I get caught and forget it's never real
+[00:55.56] Hello goodbye, see and touch, think and know feel, forget, breathe now
+[01:00.06] Because something has gone wrong here, I said
+[01:06.08] My friend
+[01:07.07] The space I'm in is fading
+[01:10.90] One more punch will do me in
+[01:13.59] Do it for the win
+[01:16.31] What is wrong?
+[01:18.49] You've come this far, now take it
+[01:21.84] One more kick and I'll be done
+[01:24.55] Kick me, have your fun
+[01:27.29] One, two, three, four, I know the score
+[01:30.65] Five, six, seven, eight, hear what I say
+[01:44.52] All I ever say I never say it loud
+[01:47.47] But it's like I'm really waiting for a bigger fight
+[01:50.28] All I ever feel I want to spit it out
+[01:52.83] And it's like I'm really dying for a little light
+[01:55.82] Sometimes it feels the more you want and want it
+[01:58.40] You get caught and forget it's never real
+[02:01.07] Sometimes I know I know the miles get old
+[02:03.96] We get caught and forget it's never real
+[02:06.62] Goodbye hello, see and touch, think and know feel, forget, breathe now
+[02:11.55] Because something has gone wrong here, I said
+[02:17.20] My friend
+[02:18.32] The space I'm in is fading
+[02:22.00] One more punch will do me in
+[02:24.87] Do it for the win
+[02:27.65] What is wrong?
+[02:29.97] You've come this far, now take it
+[02:32.97] One more kick and I'll be done
+[02:36.11] Kick me, have your fun
+[02:38.96] One, two, three, four, I know the score
+[02:41.88] Five, six, seven, eight, hear what I say
+[03:15.15] No, don't doubt
+[03:18.41] The ground I'm on is failing
+[03:22.64] One more hit and I go down, I go down
+[03:27.94] What was right?
+[03:29.68] This past is not worth saving
+[03:33.55] I don't want another round
+[03:36.19] Nothing to be found
+[03:38.94] What is wrong?
+[03:41.36] The past is what I'm craving
+[03:44.43] Both my feet have left the ground
+[03:47.15] Nowhere to be found
+```
